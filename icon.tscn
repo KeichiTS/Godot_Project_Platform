@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b83ymgeanuf4v"]
+
+[ext_resource type="Texture2D" uid="uid://cwv33fh8i6dp0" path="res://tilemap-characters_packed.png" id="1_tr34o"]
+
+[node name="Tilemap-charactersPacked" type="Sprite2D"]
+position = Vector2(631, 362)
+scale = Vector2(8.58333, 8.58333)
+texture = ExtResource("1_tr34o")
